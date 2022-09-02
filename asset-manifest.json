@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/portofolio-chakra/static/css/main.31d6cfe0.css",
-    "main.js": "/portofolio-chakra/static/js/main.2210aff1.js",
-    "index.html": "/portofolio-chakra/index.html",
-    "main.2210aff1.js.map": "/portofolio-chakra/static/js/main.2210aff1.js.map"
+    "main.css": "/portofolio/static/css/main.31d6cfe0.css",
+    "main.js": "/portofolio/static/js/main.2210aff1.js",
+    "index.html": "/portofolio/index.html",
+    "main.2210aff1.js.map": "/portofolio/static/js/main.2210aff1.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
