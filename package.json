@@ -2,7 +2,7 @@
   "name": "rjs-tsx",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fajarnugraha37.github.io/portofolio-chakra/",
+  "homepage": "https://fajarnugraha37.github.io/portofolio/",
   "dependencies": {
     "@chakra-ui/react": "^2.3.1",
     "@emotion/react": "^11.10.4",
